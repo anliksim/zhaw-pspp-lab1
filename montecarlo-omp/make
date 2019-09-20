@@ -1,0 +1,2 @@
+gfortran -fopenmp -ffree-form mc-omp.f95 -o mc-omp.e
+gfortran -fopenmp -ffree-form mc-omp-ran0.f95 -o mc-omp-ran0.e
